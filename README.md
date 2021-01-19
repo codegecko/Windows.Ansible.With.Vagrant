@@ -1,4 +1,4 @@
-# Infrastructure.Windows.Automation.Ansible.Vagrant
+# Windows.Ansible.With.Vagrant
 
 Run Ansible for windows host with vagrant (WITHOUT WSL).
 
